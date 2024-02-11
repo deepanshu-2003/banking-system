@@ -441,6 +441,7 @@ def about():
 	print("\t About")
 	print("-"*36)
 	print("This is bank management system\n\n Created by : Deepanshu,Deepak and kunal \nof class : 12th B commerce of Navyug Public School\n\n This system is for entering data of customers of a bank\n This system is created according to the view of employee of that bank\n\n Thankyou for using this system...")
+	print("This is bank management system\n\n Created by : Deepanshu Dixit\n\n This system is for entering data of customers of a bank\n This system is created according to the view of employee of that bank\n\n Thankyou for using this system...")
 	print()
 	input("press enter to exit")
 	main_page()
